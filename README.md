@@ -1,6 +1,6 @@
 ## 👋🏻 Hello Word! 👋🏻 
 
-Me chamo Mariana, tenho 23 anos e sou estudante de Engenharia de Software no Centro Universitário Municipal de Franca (Uni-FACEF). Atualmente estudando HTML, CSS e JavaScript. Possui conhecimentos técnicos em Mecatrônica, Robótica e Hardware, estando em constante aprendizado através de cursos de extensão. Estou em busca da minha primeira oportunidade profissional da área de computação, junto ao conhecimento da lingua inglesa e espanhola avançado, para aplicar meus conhecimentos, desenvolver minhas habilidades e contribuir com soluções inovadoras. 
+Me chamo Mariana, tenho 23 anos e sou estudante de Engenharia de Software no Centro Universitário Municipal de Franca (Uni-FACEF). Atualmente estudando HTML, CSS e JavaScript. Possuo conhecimentos técnicos em Mecatrônica, Robótica e Hardware, estando em constante aprendizado através de cursos de extensão. Estou em busca da minha primeira oportunidade profissional da área de computação, junto ao conhecimento da lingua inglesa e espanhola avançado, para aplicar meus conhecimentos, desenvolver minhas habilidades e contribuir com soluções inovadoras. 
 
 ## 🎓 Formação Acadêmica 
 
