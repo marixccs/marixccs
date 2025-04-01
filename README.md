@@ -15,7 +15,7 @@ Me chamo Mariana,tenho 23 anos e sou estudante de Engenharia de Software no Cent
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)
 
-## Contato
+## 📲 Contato
 
 [![Linkedin: {Nome}](https://img.shields.io/badge/-marixccs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marixccs/)](https://www.linkedin.com/in/marixccs/)
 [![Gmail Badge](https://img.shields.io/badge/-marianaccsoares@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianaccsoares@outlook.com)](mailto:marianaccsoares@outlook.com)
