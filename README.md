@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello Word! 👋🏻 Sou a Mariana Soares 
 
+## 📌 Sobre mim
+
+Me chamo Mariana,tenho 23 anos e sou estudante de Engenharia de Software no Centro Universitário de Franca (Uni-FACEF). Atualmente estudando HTML, CSS e JavaScript. Possui conhecimentos técnicos em Mecatrônica, Robótica e Hardware, estando em constante aprendizado através de cursos de extensão. Estou em busca da minha primeira oportunidade profissional da área de computação, junto ao conhecimento da lingua inglesa e espanhola avançado, para aplicar meus conhecimentos e desenvolver minhas habilidades. 
+
+## 🎓 Formação Acadêmica 
+
+💻 Engenharia de Software - Uni-FACEF (2025 - 2028)
+🤖 Técnico em Robótica e Hardware - Microcamp (2020 - 2021) 
+⚙️ Técnico em Mecatrônica - Etec Dr. Júlio Cardoso (2018)
+🌎 Lingua Inglesa - Know How (2016 - 2018)
 <!--
 **marixccs/marixccs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
