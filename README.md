@@ -1,4 +1,4 @@
-## Hello Word! 👋🏻 Sou a Mariana Soares 
+## Hello Word! 👋🏻 
 
 ## 📌 Sobre mim
 
@@ -6,10 +6,20 @@ Me chamo Mariana,tenho 23 anos e sou estudante de Engenharia de Software no Cent
 
 ## 🎓 Formação Acadêmica 
 
-💻 Engenharia de Software - Uni-FACEF (2025 - 2028)
-🤖 Técnico em Robótica e Hardware - Microcamp (2020 - 2021) 
-⚙️ Técnico em Mecatrônica - Etec Dr. Júlio Cardoso (2018)
+💻 Engenharia de Software - Uni-FACEF (2025 - 2028) <br> 
+🤖 Técnico em Robótica e Hardware - Microcamp (2020 - 2021) <br>
+⚙️ Técnico em Mecatrônica - Etec Dr. Júlio Cardoso (2018) <br>
 🌎 Lingua Inglesa - Know How (2016 - 2018)
+
+## 🚀 Linguagens de Programação 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)
+
+## Contato
+
+[![Linkedin: {Mariana}](https://img.shields.io/badge/-{marixccs}-blue?style=flat-square&logo=Linkedin&logoColor=white&link={https://www.linkedin.com/in/mariana-soares-32234b1a2/}/)]({Link})
+[![Gmail Badge](https://img.shields.io/badge/-{marianaccsoares@outlook.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{marianaccsoares@outlook.com})](mailto:{marianaccsoares@outlook.com})
+
 <!--
 **marixccs/marixccs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
